@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-CSCI-3110
-Welcome to my Data Structure and Algorithm repository
+Welcome to my Data Structure and Algorithm repository!!
 
 This repository contains In-class projects that demonstrate my understanding of Advanced topics in the branch of Data Structures and Algorithms 
 
