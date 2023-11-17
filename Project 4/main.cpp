@@ -1,4 +1,4 @@
-PROGRAMMER: Zach Taylor
+/*PROGRAMMER: Zach Taylor
  CSCI 3110 
  Project 4
  Program Description: This program develops a flight itinerary for the user by using classes, STL vectors and lists. The program first reads in from a file to make the vector of citites and then reads from another file to read into and create the adjacency list (using the STL list to create the Flight map) that displays the avaliable flights to and from the Origin and Destination. The information is the origins, destinations, flight numbers and the price of the total flight. 
