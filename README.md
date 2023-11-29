@@ -12,3 +12,5 @@ Project 3 - demostrates my understanding of advanced topics of using Standard Te
 Project 4 - (Uses code from Project 3 ) to develop a flight itinerary for the user by using classes, STL vectors and lists. The program first reads in from a file to make the vector of citites and then reads from another file to read into and create the adjacency list (using the STL list to create the Flight map) that displays the avaliable flights to and from the Origin and Destination. The information is the origins, destinations, flight numbers and the price of the total flight. 
 
 Project 5 - demostrates my understanding of Recursion and backtracking to solve the classic maze problem. 
+
+Project 6 - demostrates my understanding of Binary Serach Trees, Recursion, and Object Oriented Programming (Usage of Mutiple Classes) to create a program that creates a concordance for a given text file.
