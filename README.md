@@ -13,4 +13,4 @@ Project 4 - (Uses code from Project 3 ) to develop a flight itinerary for the us
 
 Project 5 - demostrates my understanding of Recursion and backtracking to solve the classic maze problem. 
 
-Project 6 - demostrates my understanding of Binary Serach Trees, Recursion, and Object Oriented Programming (Usage of Mutiple Classes) to create a program that creates a concordance for a given text file.
+Project 6 - demostrates my understanding of Binary Serach Trees, Standard Template Libaray lists, Recursion, and Object Oriented Programming (Usage of Mutiple Classes) to create a program that creates a concordance for a given text file.
